@@ -1,6 +1,6 @@
 <package>
   <name>gmapping</name>
-  <version>1.3.0</version>
+  <version>1.3.1</version>
   <description>This package contains a ROS wrapper for OpenSlam's Gmapping. 
   The gmapping package provides laser-based SLAM (Simultaneous Localization and Mapping), 
   as a ROS node called slam_gmapping. Using slam_gmapping, you can create a 2-D occupancy
@@ -12,7 +12,7 @@
 
   <url>http://ros.org/wiki/gmapping</url>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend version_gte="0.5.68">catkin</buildtool_depend>
 
   <build_depend>nav_msgs</build_depend>
   <build_depend>openslam_gmapping</build_depend>
