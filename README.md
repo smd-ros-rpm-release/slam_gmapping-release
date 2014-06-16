@@ -1,3 +1,24 @@
+## slam_gmapping (hydro) - 1.3.2-1
+
+The packages in the `slam_gmapping` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release -r hydro -t hydro slam_gmapping` on `Mon, 16 Jun 2014 06:45:25 -0000`
+
+These packages were released:
+- `gmapping`
+- `slam_gmapping`
+
+Version of package(s) in repository `slam_gmapping`:
+- rosdistro version: `1.3.2-0`
+- old version: `1.3.2-0`
+- new version: `1.3.2-1`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## slam_gmapping (indigo) - 1.3.2-1
 
 The packages in the `slam_gmapping` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo slam_gmapping` on `Mon, 16 Jun 2014 06:43:17 -0000`
