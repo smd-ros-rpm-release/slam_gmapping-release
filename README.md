@@ -1,3 +1,26 @@
+## slam_gmapping (hydro) - 1.3.3-0
+
+The packages in the `slam_gmapping` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release -r hydro -t hydro slam_gmapping` on `Mon, 23 Jun 2014 22:07:19 -0000`
+
+These packages were released:
+- `gmapping`
+- `slam_gmapping`
+
+Version of package(s) in repository `slam_gmapping`:
+- upstream repository: https://github.com/ros-perception/slam_gmapping
+- release repository: https://github.com/ros-gbp/slam_gmapping-release.git
+- rosdistro version: `1.3.2-1`
+- old version: `1.3.2-1`
+- new version: `1.3.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.11-dev`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## slam_gmapping (hydro) - 1.3.2-1
 
 The packages in the `slam_gmapping` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release -r hydro -t hydro slam_gmapping` on `Mon, 16 Jun 2014 06:45:25 -0000`
