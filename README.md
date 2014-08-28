@@ -1,3 +1,26 @@
+## slam_gmapping (indigo) - 1.3.5-0
+
+The packages in the `slam_gmapping` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo slam_gmapping` on `Thu, 28 Aug 2014 18:15:59 -0000`
+
+These packages were released:
+- `gmapping`
+- `slam_gmapping`
+
+Version of package(s) in repository `slam_gmapping`:
+- upstream repository: https://github.com/ros-perception/slam_gmapping
+- release repository: https://github.com/ros-gbp/slam_gmapping-release.git
+- rosdistro version: `1.3.4-0`
+- old version: `1.3.4-0`
+- new version: `1.3.5-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.29`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## slam_gmapping (hydro) - 1.3.5-0
 
 The packages in the `slam_gmapping` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release -r hydro -t hydro slam_gmapping` on `Thu, 28 Aug 2014 18:04:09 -0000`
